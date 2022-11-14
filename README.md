@@ -7,7 +7,7 @@ It has two parts: backend - API created with Laravel and frontend - React.js par
 
 
 ## Launch
-* Clone the repository files `https://github.com/ESat777/ReactApiFrontend`
+* Clone the repository files `https://github.com/ESat777/ReactApiFrontend.git`
 * Open project with VSCode;
 * Type in terminal `npm install`;
 * Type in terminal `npm start` and check this App.
